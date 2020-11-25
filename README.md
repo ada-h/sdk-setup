@@ -9,8 +9,8 @@ This is an SDK starter file.
  * An important.json for creating variables you would rather not repeat
 
 # Installation
-### Clone the repository to get started
-### Run "npm install" in the terminal to download dependencies
-### Run "npm run dev-server" to start up your sdk 
-### Run "npm run minify" to get a minified version of your sdk
+* Clone the repository to get started
+* Run "npm install" in the terminal to download dependencies
+* Run "npm run dev-server" to start up your sdk 
+* Run "npm run minify" to get a minified version of your sdk
 
