@@ -1,0 +1,6 @@
+
+var baseUrl = '';
+
+module.exports = {
+    
+};
